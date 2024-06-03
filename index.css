@@ -1,0 +1,47 @@
+body{
+    background-image: url("images/snoopybg.jpeg");  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+  
+  li a {
+    display: block;
+    color: #FFD200;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 50px;
+    transform: rotate(-20deg)
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    color: yellow;
+  }
+
+img{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+h2{
+  color:turquoise;
+  font-size: 80px;
+  margin-left: 800px;
+  margin-top: -30px;
+}
+h1{
+  font-size: 100px;
+  color:lime;
+  position: absolute;
+  right: 150px;
+  bottom: 0;
+}

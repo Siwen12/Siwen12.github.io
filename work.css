@@ -1,0 +1,49 @@
+body{
+    background-image: url("images/spongebob1.jpeg");  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+  
+  li a {
+    display: block;
+    color: #FFD200;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 50px;
+    transform: rotate(-20deg)
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    color: yellow;
+  }
+
+img{
+    display: block;
+  margin-left: 130px;
+  margin-top:60px ;
+}
+h2{
+  color:turquoise;
+  font-size: 80px;
+  margin-left: 800px;
+  margin-top: -30px;
+}
+h1{
+    display: block;
+  font-size: 35px;
+  color:rgb(8, 145, 61);
+  background-color:#FFD200;
+  width: 700px;
+  right: 150px;
+  bottom: 0;
+  text-align: center;
+}
