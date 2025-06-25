@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(171, 40, 207, 0.309);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    margin-left: 50px;
+
+    margin-top: 50px;
+  }
+  
+  li a {
+    display: block;
+    color: #FFD200;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 50px;
+    transform: rotate(-20deg)
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    color: yellow;
+  }
+
+img{
+    display: block;
+  margin-left: 130px;
+  margin-top:60px ;
+}
+h2{
+  color:rgb(151, 119, 13);
+  font-size: 200px;
+  margin-left: 800px;
+  margin-top: -90px;
+}
+h1{
+    display: block;
+  font-size: 50px;
+  color:rgb(213, 20, 20);
+  margin-left: 1000px;
+  margin-top: -170px;
+  bottom: 0;
+  
+  text-align: center;
+}
+h3{
+    color:rgb(0, 0, 0);
+    font-size: 45px;
+    margin-top: 0px;
+    text-align: center;
+  }
+ 
+  h5{
+    color:rgb(6, 188, 248);
+    font-size: 45px;
+    margin-right: 120px;
+    margin-top: 300px;
+    text-align: center;
+  }
+  h6{
+    color:rgb(175, 6, 248);
+    font-size: 100px;
+    margin-right: 20px;
+    margin-top: -30px;
+    text-align: center;
+  }
+  .desc{
+    color:rgb(6, 188, 248);
+    font-size: 45px;
+    margin-right: 120px;
+    margin-top: -80px;
+    text-align: center;
+}
+.title{
+    color:rgb(175, 6, 248);
+    font-size: 100px;
+    margin-right: 20px;
+    margin-top: -30px;
+    text-align: center;
+}
+img{
+    display: block;
+}
+    h4{
+        color:rgb(36, 30, 39);
+        font-size: 58px;
+        text-align: center;
+        width: 700px;
+      }
+.createcontent, .expcontent {
+    display: flex;
+    justify-content: space-evenly;
+}
